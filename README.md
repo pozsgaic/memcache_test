@@ -4,6 +4,9 @@ Rust test project for memcache
 This project is a simple introduction to running memcached on a local MacOS and
 spinning up a simple client.  It is not intended to be comprehensive.
 
+This project assumes that Rust has been installed and "cargo" is on $PATH and
+can be executed from a MacOS terminal.
+
 ##.  Install memcached on local machine
 
 _brew install memcached_

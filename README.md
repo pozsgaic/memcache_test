@@ -20,3 +20,8 @@ _cargo new memcache_test_
 ##.  Add dependency on memcache to the Cargo.toml [dependencies]
 memcache = "*"
 
+##.  Go to src/main.rs and add sample test code.
+
+
+##.  From root directory, build and run:  "cargo run"
+
